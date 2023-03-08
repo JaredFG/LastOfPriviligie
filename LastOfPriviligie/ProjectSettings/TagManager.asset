@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - top
   - Water
   - UI
   - 
@@ -38,6 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3138288661
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 907162787
+    locked: 0
+  - name: Player
+    uniqueID: 4228517675
+    locked: 0
+  - name: Roof
+    uniqueID: 129171105
+    locked: 0
+  - name: Props
+    uniqueID: 3517553247
     locked: 0
